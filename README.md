@@ -1,6 +1,12 @@
-# README - Common DevX
+# ⚠️ [Archived] ⚠️ README - n8n Experiments on 2025-11-10
 
-> **Last Updated**: 2025-10-29 by Keming He
+> [!WARNING]
+>
+> **This repository is archived and no longer maintained.**
+>
+> - **Archived**: 2026-02-15 by [@KemingHe](https://github.com/KemingHe)
+> - **Archive Reason**: Project abandoned and never progressed since [KemingHe/common-devx](https://github.com/KemingHe/common-devx) templating
+> - **Inquries and Corrections**: Email keminghe[dot]career[at]gmail[dot]com
 
 ## Overview
 
